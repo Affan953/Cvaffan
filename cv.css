@@ -1011,8 +1011,8 @@ button {
 @media (max-width: 767px) {
     .contact-form,
     .contact-info,
-    .home-img,
-    .home-text {
+    .about-img,
+    .about-text {
         width: 100%;
     }
     .about-text {
